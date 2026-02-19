@@ -1,0 +1,12 @@
+{
+    "title": "Student",
+    "description": "A student record in a university database",
+    "type": "object",
+    "properties":{
+        "name": "string",
+        "age": "integer",
+        "email": "string"
+    },
+    "required": ["name", "age", "email"]
+
+}
